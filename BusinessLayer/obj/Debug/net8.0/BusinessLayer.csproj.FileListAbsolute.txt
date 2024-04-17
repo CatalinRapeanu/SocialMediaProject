@@ -1,0 +1,16 @@
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/bin/Debug/net8.0/BusinessLayer.deps.json
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/bin/Debug/net8.0/BusinessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/bin/Debug/net8.0/BusinessLayer.pdb
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.csproj.AssemblyReference.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.AssemblyInfoInputs.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.AssemblyInfo.cs
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.sourcelink.json
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/Business.EA331CBA.Up2Date
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/refint/BusinessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/BusinessLayer.pdb
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/BusinessLayer/obj/Debug/net8.0/ref/BusinessLayer.dll

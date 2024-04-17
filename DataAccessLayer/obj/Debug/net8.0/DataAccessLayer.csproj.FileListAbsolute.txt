@@ -1,0 +1,15 @@
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.runtimeconfig.json
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.sourcelink.json
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.genruntimeconfig.cache
+/home/catalin/Documents/TAP/Lab7/tap-project-codebase/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll
